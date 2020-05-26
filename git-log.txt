@@ -1,0 +1,57 @@
+commit 39157b6ac6f125c004f6eca1c5c50749b3aee043
+Author: Saeed Ahadian <saeed.ahadian@outlook.com>
+Date:   Tue May 26 22:57:55 2020 +0430
+
+    Don't change that!
+---
+ something.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/something.txt b/something.txt
+index 8fe8da9..da9d6cd 100644
+--- a/something.txt
++++ b/something.txt
+@@ -1,4 +1,6 @@
+ This is sample text file which is created for no reason other than testing different commands of git.
+ 
++Let's keep it as it was.
++
+ Saeed Ahadian
+ May 26, 2020
+
+commit e1470388d87fc04ca4a65c32d5b6f5395b781f36
+Author: Saeed Ahadian <saeed.ahadian@outlook.com>
+Date:   Tue May 26 22:12:15 2020 +0430
+
+    Added a sample text file.
+---
+ something.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/something.txt b/something.txt
+new file mode 100644
+index 0000000..8fe8da9
+--- /dev/null
++++ b/something.txt
+@@ -0,0 +1,4 @@
++This is sample text file which is created for no reason other than testing different commands of git.
++
++Saeed Ahadian
++May 26, 2020
+
+commit ceabdbd0ad718b84e79d5cae5ed4359bb33cd431
+Author: Saeed Ahadian <saeed.ahadian@outlook.com>
+Date:   Tue May 26 22:01:37 2020 +0430
+
+    Initial commit.
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..2db50fb
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# test_repo_1
