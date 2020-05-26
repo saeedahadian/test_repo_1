@@ -1,0 +1,4 @@
+This is sample text file which is created for no reason other than testing different commands of git.
+
+Saeed Ahadian
+May 26, 2020
